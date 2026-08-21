@@ -22,5 +22,5 @@ Me dedico a construir APIs escalables, sistemas de gestión y aplicaciones web o
 ### 🔗 Conversemos
 
 📫 **Email:** [renep2010@gmail.com](mailto:renep2010@gmail.com)
-📱 **WhatsApp:** [+56 9 4578 5510](https://wa.me/56945785510)
-💼 **LinkedIn:** [linkedin.com/in/renédelvalle](https://www.linkedin.com/in/renédelvalle)
+📱 [WhatsApp](https://wa.me/56945785510)
+💼 [LinkedIn](https://www.linkedin.com/in/renédelvalle)
