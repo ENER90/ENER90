@@ -11,7 +11,6 @@ Me dedico a construir APIs escalables, sistemas de gestión y aplicaciones web o
 *   **Bases de Datos:** MongoDB (Mongoose), PostgreSQL
 *   **Tiempo real & Arquitectura:** Socket.io, JWT, APIs REST
 *   **Herramientas & DevOps:** Docker, Git, Jest, Supertest
-*   **Otras bases:** Conocimientos en C++, Python y herramientas de geolocalización.
 
 ### ⚡ Datos Rápidos
 
