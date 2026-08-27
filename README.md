@@ -10,7 +10,7 @@ Me dedico a construir APIs escalables, sistemas de gestión y aplicaciones web o
 *   **Frontend & Móvil:** React, JavaScript, React Native / Expo
 *   **Bases de Datos:** MongoDB (Mongoose), PostgreSQL
 *   **Tiempo real & Arquitectura:** Socket.io, JWT, APIs REST
-*   **⚙️ Herramientas & Flujo de Trabajo:** Docker, Git, Postman, Cursor (AI Coding) ![Cursor](https://img.shields.io/badge/Cursor-AI_Coding-000000?style=flat-square)
+*   **Herramientas & Flujo de Trabajo:** Docker, Git, Postman, Cursor (AI Coding)
 
 ### Datos Rápidos
 
