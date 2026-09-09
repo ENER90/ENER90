@@ -1,26 +1,35 @@
 # Hola, soy René
 
-**Ingeniero de Software | Backend & Full-Stack | Santiago de Chile 🇨🇱**
+**Ingeniero de Software | Backend & Full-Stack | Santiago de Chile 🇨🇱**  
+**Open to Work** — Node.js · TypeScript · APIs REST · SaaS
 
-Me dedico a construir APIs escalables, sistemas de gestión y aplicaciones web orientadas a resolver problemas del mundo real. Valoro el código limpio, la arquitectura sólida y el aprendizaje continuo. Cuento con experiencia desarrollando desde servicios backend para plataformas SaaS multi-tenant hasta la modernización de procesos operativos empresariales.
+Construyo APIs escalables y productos web con impacto real: desde backends multi-tenant hasta apps con geolocalización y tiempo real. Me importa el código limpio, la arquitectura clara y entregar valor rápido.
 
-### Arsenal Técnico
+### Stack
 
-*   **Backend & APIs:** Node.js, Express, TypeScript, PHP (Symfony)
-*   **Frontend & Móvil:** React, JavaScript, React Native / Expo
-*   **Bases de Datos:** MongoDB (Mongoose), PostgreSQL
-*   **Tiempo real & Arquitectura:** Socket.io, JWT, APIs REST
-*   **Herramientas & Flujo de Trabajo:** Docker, Git, Postman, Cursor (AI Coding)
+* **Backend & APIs:** Node.js, Express, TypeScript, PHP (Symfony)
+* **Frontend & móvil:** React, JavaScript, React Native / Expo
+* **Datos:** MongoDB (Mongoose), PostgreSQL
+* **Tiempo real:** Socket.io, JWT, REST
+* **Tooling:** Docker, Git, Postman, Cursor (AI-assisted)
 
-### Datos Rápidos
+### Proyectos destacados
 
-*   **Idiomas:** Español (Nativo) | Inglés (Lectura técnica y documentación).
-*   **Ubicación:** 📍Santiago de Chile.
-*   **Enfoque actual:** Backend limpio, bases de datos y productos con impacto directo en el usuario.
-*   **Código:** Explora mis [repositorios públicos](https://github.com/ENER90?tab=repositories) para ver mi trabajo en acción.
+| Repo | Qué demuestra |
+| --- | --- |
+| [voting-polls-api](https://github.com/ENER90/voting-polls-api) | API REST + JWT + roles + agregaciones |
+| [chat-api](https://github.com/ENER90/chat-api) | WebSockets + salas + presencia |
+| [colectivos-api](https://github.com/ENER90/colectivos-api) / [app](https://github.com/ENER90/colectivos-app) | Dominio real + geo + tiempo real |
+| [tareas-api](https://github.com/ENER90/tareas-api) | REST + tests (Jest/Supertest) + Docker |
 
-### 🔗 Conversemos
+### Datos rápidos
 
-📫 **Email:** [renep2010@gmail.com](mailto:renep2010@gmail.com)
+* **Idiomas:** Español (nativo) · Inglés (lectura técnica)
+* **Ubicación:** Santiago de Chile (presencial / híbrido / remoto)
+* **Enfoque:** Backend limpio, datos y productos orientados a usuario
+
+### Contacto
+
+📫 [renep2010@gmail.com](mailto:renep2010@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/renédelvalle)  
 📱 [WhatsApp](https://wa.me/56945785510)
-💼 [LinkedIn](https://www.linkedin.com/in/renédelvalle)
