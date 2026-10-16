@@ -17,6 +17,7 @@ Construyo APIs escalables y productos web con impacto real: desde backends multi
 
 | Repo | Qué demuestra |
 | --- | --- |
+| [mercadolibre-reviews-scraper](https://github.com/ENER90/mercadolibre-reviews-scraper) | Apify Actor: reseñas + Q&A de Mercado Libre (CL/AR/MX/...), TypeScript + Crawlee, sin datos personales |
 | [voting-polls-api](https://github.com/ENER90/voting-polls-api) | API REST + JWT + roles + agregaciones |
 | [chat-api](https://github.com/ENER90/chat-api) | WebSockets + salas + presencia |
 | [colectivos-api](https://github.com/ENER90/colectivos-api) / [app](https://github.com/ENER90/colectivos-app) | Dominio real + geo + tiempo real |
