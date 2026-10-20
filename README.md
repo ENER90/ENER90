@@ -24,6 +24,7 @@ Construyo APIs escalables y productos web con impacto real: desde backends multi
 | [walmart-reviews-scraper](https://github.com/ENER90/walmart-reviews-scraper) | Apify Actor ([Store](https://apify.com/ener90/walmart-products-reviews)): reseñas + datos de producto de Walmart, confiable frente a PerimeterX |
 | [product-hunt-scraper](https://github.com/ENER90/product-hunt-scraper) | Apify Actor ([Store](https://apify.com/ener90/product-hunt-launches)): lanzamientos de Product Hunt desde el caché Apollo SSR, sin token |
 | [chile-real-estate-scraper](https://github.com/ENER90/chile-real-estate-scraper) | Apify Actor ([Store](https://apify.com/ener90/chile-real-estate-scraper)): propiedades en venta y arriendo de Portal Inmobiliario y TocToc, precio en UF/CLP y por m², coordenadas |
+| [ai-review-insights](https://github.com/ENER90/ai-review-insights) | Apify Actor: análisis de reseñas con IA (Gemini/OpenAI, clave propia): sentimiento, pros y contras, temas y pedidos de mejora por producto |
 | [voting-polls-api](https://github.com/ENER90/voting-polls-api) | API REST + JWT + roles + agregaciones |
 | [chat-api](https://github.com/ENER90/chat-api) | WebSockets + salas + presencia |
 | [colectivos-api](https://github.com/ENER90/colectivos-api) / [app](https://github.com/ENER90/colectivos-app) | Dominio real + geo + tiempo real |
