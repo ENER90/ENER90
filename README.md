@@ -11,16 +11,24 @@ Construyo APIs escalables y productos web con impacto real: desde backends multi
 * **Frontend & móvil:** React, JavaScript, React Native / Expo
 * **Datos:** MongoDB (Mongoose), PostgreSQL
 * **Tiempo real:** Socket.io, JWT, REST
+* **Scraping & datos:** Apify, Crawlee, Playwright, Cheerio
 * **Tooling:** Docker, Git, Postman, Cursor (AI-assisted)
 
 ### Proyectos destacados
 
 | Repo | Qué demuestra |
 | --- | --- |
+| [mercadolibre-reviews-scraper](https://github.com/ENER90/mercadolibre-reviews-scraper) | Apify Actor ([Store](https://apify.com/ener90/mercadolibre-reviews-questions)): reviews + Q&A de Mercado Libre en 6 países, TypeScript + Crawlee, sin datos personales |
+| [mercadolibre-price-tracker](https://github.com/ENER90/mercadolibre-price-tracker) | Apify Actor ([Store](https://apify.com/ener90/mercadolibre-seller-price-monitor)): monitoreo de precios con snapshots y diff, cobro por cambio detectado |
+| [trustradius-reviews-scraper](https://github.com/ENER90/trustradius-reviews-scraper) | Apify Actor ([Store](https://apify.com/ener90/software-reviews-scraper)): reseñas B2B con Playwright, anti-bot (Cloudflare) y proxy residencial |
+| [walmart-reviews-scraper](https://github.com/ENER90/walmart-reviews-scraper) | Apify Actor ([Store](https://apify.com/ener90/walmart-products-reviews)): reseñas + datos de producto de Walmart, confiable frente a PerimeterX |
+| [product-hunt-scraper](https://github.com/ENER90/product-hunt-scraper) | Apify Actor ([Store](https://apify.com/ener90/product-hunt-launches)): lanzamientos de Product Hunt desde el caché Apollo SSR, sin token |
 | [voting-polls-api](https://github.com/ENER90/voting-polls-api) | API REST + JWT + roles + agregaciones |
 | [chat-api](https://github.com/ENER90/chat-api) | WebSockets + salas + presencia |
 | [colectivos-api](https://github.com/ENER90/colectivos-api) / [app](https://github.com/ENER90/colectivos-app) | Dominio real + geo + tiempo real |
 | [tareas-api](https://github.com/ENER90/tareas-api) | REST + tests (Jest/Supertest) + Docker |
+
+🕷️ Todos mis scrapers publicados: [apify.com/ener90](https://apify.com/ener90)
 
 ### Datos rápidos
 
